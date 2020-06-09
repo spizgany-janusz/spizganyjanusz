@@ -24,3 +24,5 @@ scholar:
   bibliography: publications.bib
   sort_by: year
   order: descending
+
+theme: jekyll-theme-cayman
